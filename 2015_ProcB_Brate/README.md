@@ -1,0 +1,1 @@
+R commands used in the paper [Regulatory RNA at the root of animals: dynamic expression of developmental lincRNAs in the calcisponge *Sycon ciliatum*](http://rspb.royalsocietypublishing.org/content/282/1821/20151746). See also data files deposited on [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.v83fj)
